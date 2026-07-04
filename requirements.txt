@@ -1,0 +1,9 @@
+# Dependencies for the security audit PoC script (CREATE_PATCH.py).
+#
+# Install:
+#   pip install -r requirements.txt
+#
+# Python 3.8+ recommended.
+
+pefile>=2023.2.7
+dnfile>=0.14.1
